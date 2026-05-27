@@ -1,0 +1,19 @@
+[
+    {
+        "uri": "https://ctf.m15tak3.com/challenges/crypto/myctf-crypto-easy-rsa/",
+        "title": "easy-rsa",
+        "tags": ["crypto", "RSA"],
+        "content": "这是 Hackropole Hugo 主题的一个演示题目。\n"
+    },
+    {
+        "uri": "https://ctf.m15tak3.com/challenges/web/myctf-web-sql/",
+        "title": "SQL",
+        "tags": ["web", "php"],
+        "content": "这是 Hackropole Hugo 主题的一个演示题目。\n"
+    },
+    {
+        "uri": "https://ctf.m15tak3.com/challenges/",
+        "title": "题目",
+        "tags": [],
+        "content": ""
+    }]

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>crypto on M15tak3的 CTF 归档</title>
+    <link>https://ctf.m15tak3.com/crypto/</link>
+    <description>Recent content in crypto on M15tak3的 CTF 归档</description>
+    <generator>Hugo</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Mon, 13 May 2019 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://ctf.m15tak3.com/crypto/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>easy-rsa</title>
+      <link>https://ctf.m15tak3.com/challenges/crypto/myctf-crypto-easy-rsa/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://ctf.m15tak3.com/challenges/crypto/myctf-crypto-easy-rsa/</guid>
+      <description>&lt;p&gt;这是 Hackropole Hugo 主题的一个演示题目。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
